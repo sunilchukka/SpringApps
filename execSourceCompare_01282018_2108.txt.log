@@ -1,0 +1,272 @@
+[Warning] The regular expression "tcNormalPlay" didn't match any method in class com.nielsen.cloudapi.s2s.canary.browser.BrowserTestSearchChannelAndPlay
+[TestNG] Running:
+  /Users/cloudapi/Documents/CanaryPackage/sourceCompare.xml
+
+ChannelName [code= ESPN , duration=8]
+ChannelName [code= AMC , duration=8]
+ChannelName [code= BBC World News , duration=8]
+ChannelName [code= BTN , duration=8]
+ChannelName [code= CBS , duration=8]
+ChannelName [code= CBS Sports Network , duration=8		]
+ChannelName [code= Chiller , duration=8]
+ChannelName [code= Golf , duration=8]
+ChannelName [code= FreeForm , duration=8]
+ChannelName [code= Fox , duration=8]
+ChannelName [code= Fox News , duration=8]
+ChannelName [code= Fox Sports , duration=8]
+ChannelName [code= FX , duration=8]
+ChannelName [code= MSNBC , duration=8]
+ChannelName [code= Oxygen , duration=8]
+ChannelName [code= Nat Geo , duration=8]
+ChannelName [code= IFC , duration=8]
+ChannelName [code= SYFY , duration=8]
+ChannelName [code= WE TV , duration=8]
+ChannelName [code= NBC Sports , duration=8]
+ChannelName [code= SundanceTV , duration=8]
+ChannelName [code= Universo , duration=8]
+ChannelName [code= Olympic Channel , duration=8]
+ChannelName [code= Disney , duration=8]
+ChannelName [code= Universal Kids , duration=8]
+Playing ESPN for duration 8 minutes.
+Execution StartTime:Sun Jan 28 21:08:47 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_qwwOt_m5QkrIsLUo
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2109_8_ESPN_1.wav
+Recording Started.
+21:10:43.623 [LittleProxy-0-ClientToProxyWorker-4] ERROR io.netty.util.ResourceLeakDetector - LEAK: ByteBuf.release() was not called before it's garbage-collected. Enable advanced leak reporting to find out where the leak occurred. To enable advanced leak reporting, specify the JVM option '-Dio.netty.leakDetection.level=advanced' or call ResourceLeakDetector.setLevel() See http://netty.io/wiki/reference-counted-objects.html for more information.
+28/01/2018 21:18:07.509
+796C9D0A-DE67-443C-A280-41BE1909DDDE_WYiXWMemEwtUd1kO
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2118_8_ESPN_2.wav
+Recording Started.
+28/01/2018 21:27:11.232
+796C9D0A-DE67-443C-A280-41BE1909DDDE_39wZW8PnwWDGsbP_
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2127_8_ESPN_3.wav
+Recording Started.
+28/01/2018 21:36:13.680
+796C9D0A-DE67-443C-A280-41BE1909DDDE_MAVVj-sIUYBKVYYk
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2136_8_ESPN_4.wav
+Recording Started.
+28/01/2018 21:45:17.47
+796C9D0A-DE67-443C-A280-41BE1909DDDE_bMdjpGxG8E1pxh28
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2145_8_ESPN_5.wav
+Recording Started.
+28/01/2018 21:54:22.616
+Playing AMC for duration 8 minutes.
+Execution StartTime:Sun Jan 28 21:54:22 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_4jgwzdIk0AmqEvpA
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2154_8_AMC_1.wav
+Recording Started.
+28/01/2018 22:03:47.581
+Playing BBC World News for duration 8 minutes.
+Execution StartTime:Sun Jan 28 22:03:47 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_pcgu27amq-vDa_JD
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2204_8_BBC World News_1.wav
+Recording Started.
+Exception Occured for Channel Play Scenario Details as Below :
+Channel Name : BBC World News
+ ***** Duration ***** : 8
+Exception Occured Writing Exceptions to File 
+Playing BTN for duration 8 minutes.
+Execution StartTime:Sun Jan 28 22:12:41 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_oRGw37nKM4dMFYUv
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2213_8_BTN_1.wav
+Recording Started.
+28/01/2018 22:22:09.44
+Playing CBS for duration 8 minutes.
+Execution StartTime:Sun Jan 28 22:22:09 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_kZflg9211aGKXre_
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2222_8_CBS_1.wav
+Recording Started.
+Exception Occured for Channel Play Scenario Details as Below :
+Channel Name : CBS
+ ***** Duration ***** : 8
+Exception Occured Writing Exceptions to File 
+Playing CBS Sports Network for duration 8 minutes.
+Execution StartTime:Sun Jan 28 22:31:02 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_CZATw5p5BdT5mnSS
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2231_8_CBS Sports Network_1.wav
+Recording Started.
+28/01/2018 22:40:32.522
+Playing Chiller for duration 8 minutes.
+Execution StartTime:Sun Jan 28 22:40:32 EST 2018
+Exception Occured for Channel Play Scenario Details as Below :
+Channel Name : Chiller
+ ***** Duration ***** : 8
+Exception Occured Writing Exceptions to File 
+Playing Golf for duration 8 minutes.
+Execution StartTime:Sun Jan 28 22:40:48 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE__bX2UU5bbMPIdzK3
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2241_8_Golf_1.wav
+Recording Started.
+28/01/2018 22:50:24.596
+Playing FreeForm for duration 8 minutes.
+Execution StartTime:Sun Jan 28 22:50:24 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_Fe5WuwKkEUrt-nym
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2250_8_FreeForm_1.wav
+Recording Started.
+28/01/2018 22:59:50.252
+Playing Fox for duration 8 minutes.
+Execution StartTime:Sun Jan 28 22:59:50 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_ZWbHd9hSMxmkMRQT
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2300_8_Fox_1.wav
+Recording Started.
+Exception Occured for Channel Play Scenario Details as Below :
+Channel Name : Fox
+ ***** Duration ***** : 8
+Exception Occured Writing Exceptions to File 
+Playing Fox News for duration 8 minutes.
+Execution StartTime:Sun Jan 28 23:08:44 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_sSprgxLnUbzaAJVJ
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2309_8_Fox News_1.wav
+Recording Started.
+Exception Occured for Channel Play Scenario Details as Below :
+Channel Name : Fox News
+ ***** Duration ***** : 8
+Exception Occured Writing Exceptions to File 
+Playing Fox Sports for duration 8 minutes.
+Execution StartTime:Sun Jan 28 23:17:39 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_RAgttexl6h-wHGGY
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2318_8_Fox Sports_1.wav
+Recording Started.
+Exception Occured for Channel Play Scenario Details as Below :
+Channel Name : Fox Sports
+ ***** Duration ***** : 8
+Exception Occured Writing Exceptions to File 
+Playing FX for duration 8 minutes.
+Execution StartTime:Sun Jan 28 23:26:35 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_1qvux77Mk1vbdHyn
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2327_8_FX_1.wav
+Recording Started.
+28/01/2018 23:36:02.161
+796C9D0A-DE67-443C-A280-41BE1909DDDE_shLw9onl1bvsDFL_
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2336_8_FX_2.wav
+Recording Started.
+28/01/2018 23:45:06.990
+796C9D0A-DE67-443C-A280-41BE1909DDDE_oBV4eGTli7BQ6SjW
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2345_8_FX_3.wav
+Recording Started.
+28/01/2018 23:54:11.882
+Playing MSNBC for duration 8 minutes.
+Execution StartTime:Sun Jan 28 23:54:12 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_manpabHKuRKAbH6-
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01282018-2354_8_MSNBC_1.wav
+Recording Started.
+29/01/2018 00:03:38.675
+Playing Oxygen for duration 8 minutes.
+Execution StartTime:Mon Jan 29 00:03:39 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_0NMfR-TNy_l9LECs
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0004_8_Oxygen_1.wav
+Recording Started.
+29/01/2018 00:13:04.964
+Playing Nat Geo for duration 8 minutes.
+Execution StartTime:Mon Jan 29 00:13:05 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_-2PpYi-VscIExCCM
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0013_8_Nat Geo_1.wav
+Recording Started.
+29/01/2018 00:22:29.127
+796C9D0A-DE67-443C-A280-41BE1909DDDE__T-miSLMJOrsVe92
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0022_8_Nat Geo_2.wav
+Recording Started.
+29/01/2018 00:31:37.776
+Playing IFC for duration 8 minutes.
+Execution StartTime:Mon Jan 29 00:31:38 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_9gwIGOtfDoXbZFPi
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0032_8_IFC_1.wav
+Recording Started.
+29/01/2018 00:41:02.882
+Playing SYFY for duration 8 minutes.
+Execution StartTime:Mon Jan 29 00:41:03 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_YIquW1e_ZD4lbljG
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0041_8_SYFY_1.wav
+Recording Started.
+29/01/2018 00:50:29.444
+Playing WE TV for duration 8 minutes.
+Execution StartTime:Mon Jan 29 00:50:29 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_H1t7lTwvbtinC1uJ
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0051_8_WE TV_1.wav
+Recording Started.
+29/01/2018 00:59:58.880
+Playing NBC Sports for duration 8 minutes.
+Execution StartTime:Mon Jan 29 00:59:59 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_kZVPfu-0CRcXv2Me
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0100_8_NBC Sports_1.wav
+Recording Started.
+29/01/2018 01:09:25.101
+796C9D0A-DE67-443C-A280-41BE1909DDDE_vSLVvvJ2-ujq2piA
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0109_8_NBC Sports_2.wav
+Recording Started.
+29/01/2018 01:18:32.493
+796C9D0A-DE67-443C-A280-41BE1909DDDE_Ike8-5cs4KOC63BL
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0118_8_NBC Sports_3.wav
+Recording Started.
+29/01/2018 01:27:40.643
+796C9D0A-DE67-443C-A280-41BE1909DDDE_fmG-O9SQUnRPusvL
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0127_8_NBC Sports_4.wav
+Recording Started.
+29/01/2018 01:36:45.164
+796C9D0A-DE67-443C-A280-41BE1909DDDE_SCS8yRFJeMwBGzSM
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0136_8_NBC Sports_5.wav
+Recording Started.
+29/01/2018 01:45:51.630
+Playing SundanceTV for duration 8 minutes.
+Execution StartTime:Mon Jan 29 01:45:52 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_tFha0XKIaste2n5A
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0146_8_SundanceTV_1.wav
+Recording Started.
+29/01/2018 01:55:19.865
+Playing Universo for duration 8 minutes.
+Execution StartTime:Mon Jan 29 01:55:20 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_zflEXLA_QxM1_P5I
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0155_8_Universo_1.wav
+Recording Started.
+Exception Occured for Channel Play Scenario Details as Below :
+Channel Name : Universo
+ ***** Duration ***** : 8
+Exception Occured Writing Exceptions to File 
+Playing Olympic Channel for duration 8 minutes.
+Execution StartTime:Mon Jan 29 02:04:13 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_Sea2eZWwBTZuRNrn
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0204_8_Olympic Channel_1.wav
+Recording Started.
+Exception Occured for Channel Play Scenario Details as Below :
+Channel Name : Olympic Channel
+ ***** Duration ***** : 8
+Exception Occured Writing Exceptions to File 
+Playing Disney for duration 8 minutes.
+Execution StartTime:Mon Jan 29 02:13:06 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_nQhD85QYDobQUEyD
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0213_8_Disney_1.wav
+Recording Started.
+29/01/2018 02:22:37.500
+796C9D0A-DE67-443C-A280-41BE1909DDDE_quhyjMAZ1HkKO_72
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0222_8_Disney_2.wav
+Recording Started.
+29/01/2018 02:31:40.258
+796C9D0A-DE67-443C-A280-41BE1909DDDE_BPatlOxNIqUa8IRp
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0231_8_Disney_3.wav
+Recording Started.
+29/01/2018 02:40:44.840
+Playing Universal Kids for duration 8 minutes.
+Execution StartTime:Mon Jan 29 02:40:45 EST 2018
+796C9D0A-DE67-443C-A280-41BE1909DDDE_qz7arI5NF4A_jOft
+Recording Destination File:./AudioID3Files/BrowserTestSearchChannelAndPlay_01292018-0241_8_Universal Kids_1.wav
+Recording Started.
+29/01/2018 02:50:10.75
+PASSED: loadConfig
+
+===============================================
+    Browser 5
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Browser Accreditation
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.jq.Main@732bb66d: 19 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6ad5923a: 7 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5395ea39: 3 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@4565a70a: 4 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@65327f5: 3 ms

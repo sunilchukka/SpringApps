@@ -1,0 +1,150 @@
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1110_8_ESPN_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1119_8_ESPN_2.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1128_8_ESPN_3.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1137_8_ESPN_4.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1146_8_ESPN_5.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1156_8_AMC_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1205_8_BBC World News_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1214_8_BTN_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1223_8_CBS_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1232_8_CBS Sports Network_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1242_8_Golf_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1251_8_FreeForm_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1301_8_Fox_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1310_8_Fox News_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1319_8_Fox Sports_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1328_8_FX_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1337_8_FX_2.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1346_8_FX_3.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1355_8_MSNBC_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1404_8_Oxygen_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1414_8_Nat Geo_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1423_8_Nat Geo_2.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1432_8_IFC_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1442_8_SYFY_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1451_8_WE TV_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1500_8_NBC Sports_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1509_8_NBC Sports_2.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1518_8_NBC Sports_3.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1527_8_NBC Sports_4.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1537_8_NBC Sports_5.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1546_8_SundanceTV_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1555_8_Universo_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1604_8_Olympic Channel_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1613_8_Disney_1.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1622_8_Disney_2.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1631_8_Disney_3.wav
+File generation completed
+Starting Audio to ID3 Conversion for file: BrowserTestSearchChannelAndPlay_02172018-1641_8_Universal Kids_1.wav
+File generation completed
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1705_bsdk.har
+1518905133110278 Channel ID - FD_pfKgvOQM6kZS86xHruCUrg==
+./HttpArchives/BrowserTestSearchChannelAndPlay_2_02172018-1716_bsdk.har
+17:16:38.314 [LittleProxy-1-ProxyToServerWorker-2] ERROR io.netty.util.ResourceLeakDetector - LEAK: ByteBuf.release() was not called before it's garbage-collected. Enable advanced leak reporting to find out where the leak occurred. To enable advanced leak reporting, specify the JVM option '-Dio.netty.leakDetection.level=advanced' or call ResourceLeakDetector.setLevel() See http://netty.io/wiki/reference-counted-objects.html for more information.
+15189057984712293 Channel ID - FD_ZoVhPgZWtKqiRo2rbQnVWA==
+./HttpArchives/BrowserTestSearchChannelAndPlay_3_02172018-1726_bsdk.har
+15189064028571408 Channel ID - FD_jzeNQP4rIDnx5CbZsLTIiA==
+./HttpArchives/BrowserTestSearchChannelAndPlay_4_02172018-1735_bsdk.har
+15189069471827581 Channel ID - FD_NDKtWJ3THX8pw2lXp1OGlQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_5_02172018-1744_bsdk.har
+15189074913431595 Channel ID - FD_bC_m2l9DXZQnAJ06rSYCHQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1753_bsdk.har
+15189080357887925 Channel ID - FD_CwW0PR31u7VSrXeadRAWxQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1802_bsdk.har
+1518908580594456 Channel ID - FD_JtLgykvl9BgTKa4Fw4EizA==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1813_bsdk.har
+15189091851386450 Channel ID - FD_CpqfCCOj9erkJ2_p7Pn45Q==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1822_bsdk.har
+15189097298595309 Channel ID - FD_iXy1pzJJh_rXVBeWoBy4Vw==
+15189097298595309 Channel ID - PC_6idRwKvkrj9cidWpit4i6A==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1833_bsdk.har
+15189103940922109 Channel ID - FD_VOuxQ5oXP6eDkPdxf7dYLw==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1843_bsdk.har
+15189109988943177 Channel ID - FD_p-zB2GDVvpQ1AXg0TSB_ZQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1854_bsdk.har
+15189116630713436 Channel ID - FD_Z7yms161e5nS-Q632O4fSQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1903_bsdk.har
+15189122077302993 Channel ID - FD_GN5HoPTj9shcyn4r5bexeg==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1913_bsdk.har
+15189128125395410 Channel ID - FD_GN5HoPTj9shcyn4r5bexeg==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1924_bsdk.har
+15189134768148711 Channel ID - FD_FqjkT52MG2fX_B2Isoqx0w==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-1934_bsdk.har
+15189140811111706 Channel ID - FD_nEX4Nt2hk0xqnFTCozxGOg==
+./HttpArchives/BrowserTestSearchChannelAndPlay_2_02172018-1945_bsdk.har
+15189147455308464 Channel ID - FD_rj8Uh17sdq3FL3nKX8aMDA==
+./HttpArchives/BrowserTestSearchChannelAndPlay_3_02172018-1955_bsdk.har
+15189153507335558 Channel ID - FD_KPvwv8VVL36JtIiWn3aobQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2004_bsdk.har
+15189158951365861 Channel ID - FD_c6aHOIS9e3KHluDhrEUl3w==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2014_bsdk.har
+15189165000466771 Channel ID - FD_OTuFdE628HFf8lc7Amydog==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2025_bsdk.har
+15189171047883769 Channel ID - FD_i2Doync3trGYVGZ05dgEmQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_2_02172018-2036_bsdk.har
+15189177698184174 Channel ID - FD_4NP7tGc-kCBhVLygHDJzWg==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2046_bsdk.har
+15189183750368186 Channel ID - FD_SnsnnATAJovKfj4qw19xsQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2055_bsdk.har
+1518918919911891 Channel ID - FD_Pm6-awovY_AiEhmJAdPvag==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2107_bsdk.har
+15189196441862017 Channel ID - FD_z3rFn6rF34kBJHo10An5OQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2116_bsdk.har
+15189201891074026 Channel ID - FD_ooXVumf8AonXDNpYCJFiZg==
+./HttpArchives/BrowserTestSearchChannelAndPlay_2_02172018-2125_bsdk.har
+1518920733676304 Channel ID - FD_LD6ozx5B6F5w3-a_FxyBOQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_3_02172018-2135_bsdk.har
+15189213379863206 Channel ID - FD_LD6ozx5B6F5w3-a_FxyBOQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_4_02172018-2144_bsdk.har
+15189218824139896 Channel ID - FD_WOse_LU73THYQ_lWHtzaLQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_5_02172018-2154_bsdk.har
+15189224867929978 Channel ID - FD_WOse_LU73THYQ_lWHtzaLQ==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2204_bsdk.har
+15189230908332479 Channel ID - FD_A7YrJorbMZudi0WDmSsh6g==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2214_bsdk.har
+15189236948402476 Channel ID - FD_DmTmJ8gz7QELF2DdlcvZmg==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2223_bsdk.har
+15189242394007693 Channel ID - FD_yGQn84im7_xZsy1U1oL4ZA==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2233_bsdk.har
+15189247837559591 Channel ID - FD_pIl6P5rd7RPPlSTRAMIZcg==
+./HttpArchives/BrowserTestSearchChannelAndPlay_2_02172018-2242_bsdk.har
+15189253280245905 Channel ID - FD__AWc12WJypkIvnlqCejC6g==
+./HttpArchives/BrowserTestSearchChannelAndPlay_3_02172018-2251_bsdk.har
+15189258723953804 Channel ID - FD_hXhgqSVLv0Wr-kwtZvktJA==
+./HttpArchives/BrowserTestSearchChannelAndPlay_1_02172018-2301_bsdk.har
+15189264770428108 Channel ID - FD_FrBzP8Bz1oG9r032FAcPsA==
