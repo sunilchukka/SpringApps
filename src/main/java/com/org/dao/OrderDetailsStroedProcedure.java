@@ -27,7 +27,7 @@ public OrderDetailsStroedProcedure(JdbcTemplate jdbcTemplate, String procName)
 public void insertOrderData(List<OrderDetails> orderDetails)
 {
 	Map<String , Object> inParams=new HashMap<>();
-	inParams.put("P_TYP_ORDER_OBJ", new OrderType();
+	inParams.put("P_TYP_ORDER_OBJ", new OrderType(orderDetails.toArray(new OrderDetails[orderDetails.size()])));
 	inParams.put("P_FILE_NAME", "xyz");
 	
 }
