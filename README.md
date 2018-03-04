@@ -9,6 +9,8 @@ Fiannly prepares an excel and saves the project root directory.
 
 Sample files are also placed in project root directory.(TestFile2.log and TestFile1.log).
 
+url to access to this application is : http://localhost:9099/download
+
 
 
 
